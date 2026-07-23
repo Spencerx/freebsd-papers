@@ -41,3 +41,11 @@ We will also touch on some aspects of the implementation, notably why we needed
 to introduce the new setcred(2) system call, which allows to change all process
 credentials in a single call, and, time-permitting, those that are related to
 the use of some FreeBSD's kernel sub-systems (notably, sysctl, jails and OSD).
+
+> [!WARNING]
+> For some yet unexplained reason, the automatically-produced link below does
+> not work.  An [issue
+> (#154)](https://github.com/freebsd/freebsd-papers/issues/154) has already been
+> risen.  Please use this
+> [link](https://papers.freebsd.org/2025/eurobsdcon/certner-mac_do-mdo-setcred.files/certner-mac_do-mdo-setcred.pdf)
+> in the meantime.
