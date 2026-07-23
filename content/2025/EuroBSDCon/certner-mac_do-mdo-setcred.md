@@ -4,6 +4,7 @@ title: "Controlled credentials transitions without privileges: mac_do(4), mdo(1)
 date: 2025-09-28
 author: Olivier Certner
 email: olce@FreeBSD.org
+venue: EuroBSDCon 2025
 ---
 
 In this talk, we will present a project that aims at allowing controlled process
